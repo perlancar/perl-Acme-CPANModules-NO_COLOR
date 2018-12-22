@@ -23,8 +23,8 @@ _
         {module=>'Text::ANSITable'},
     ],
     links => [
-        {url=>'pm:Acme::CPANModules::NO_COLOR::NonCompliant'},
         {url=>'pm:Acme::CPANModules::COLOR'},
+        {url=>'pm:Acme::CPANModules::ColorEnv'},
     ],
 };
 
