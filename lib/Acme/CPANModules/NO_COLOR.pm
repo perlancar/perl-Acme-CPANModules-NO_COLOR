@@ -12,8 +12,11 @@ output of console programs by defining an environment variable called NO_COLOR.
 The existence of said environment variable, regardless of its value, signals
 that programs should not use colored output.
 
+If you know of other modules that should be listed here, please contact me.
+
 _
     entries => [
+        {module=>'App::hr'},
         {module=>'Color::ANSI::Util'},
         {module=>'Data::Dump::Color'},
         {module=>'Debug::Print'},
