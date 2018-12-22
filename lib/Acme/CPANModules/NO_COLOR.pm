@@ -22,16 +22,11 @@ _
         {module=>'Term::App::Roles'},
         {module=>'Text::ANSITable'},
     ],
+    links => [
+        {url=>'pm:Acme::CPANModules::NO_COLOR::NonCompliant'},
+        {url=>'pm:Acme::CPANModules::COLOR'},
+    ],
 };
 
 1;
 # ABSTRACT:
-
-=head1 DESCRIPTION
-
-
-=head1 SEE ALSO
-
-L<Acme::CPANModules::NO_COLOR::NonCompliant>
-
-L<Acme::CPANModules::COLOR>
