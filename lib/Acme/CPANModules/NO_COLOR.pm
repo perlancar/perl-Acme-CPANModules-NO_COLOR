@@ -1,6 +1,8 @@
 package Acme::CPANModules::NO_COLOR;
 
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 our $LIST = {
@@ -16,6 +18,7 @@ If you know of other modules that should be listed here, please contact me.
 
 _
     entries => [
+        {module=>'App::DiffTarballs'},
         {module=>'App::hr'},
         {module=>'Color::ANSI::Util'},
         {module=>'Data::Dump::Color'},
