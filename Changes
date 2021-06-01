@@ -1,3 +1,12 @@
+0.007   2021-06-01  Released-By: PERLANCAR; Urgency: medium
+
+	- Add entries: App::ccdiff, App::Codeowners, App::riap,
+	  App::rsynccolor, Parse::Netstat::Colorizer,
+	  Proc::ProcessTable::ncps, Search::ESsearcher, Term::ANSIColor,
+	  Term::App::Roles::Attrs, Text::CSV_XS, Tree::Shell; note the
+	  scripts.
+
+
 0.006   2021-06-01  Released-By: PERLANCAR; Urgency: low
 
 	- No functional changes.
