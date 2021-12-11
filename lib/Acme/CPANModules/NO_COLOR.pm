@@ -1,5 +1,7 @@
 package Acme::CPANModules::NO_COLOR;
 
+use strict;
+
 # AUTHORITY
 # DATE
 # DIST
@@ -32,6 +34,7 @@ _
         {module=>'Debug::Print'},
         {module=>'Git::Deploy', script=>'git-deploy'},
         {module=>'Indent::Form'},
+        {module=>'JSON::Color'},
         {module=>'Log::Any::Adapter::Screen'},
         {module=>'Log::ger::Output::Screen'},
         {module=>'Parse::Netstat::Colorizer', script=>'cnetstat'},
